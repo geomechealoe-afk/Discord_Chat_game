@@ -1,0 +1,16 @@
+{
+  "name": "discord_chat_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BotScript2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "geomeche",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
